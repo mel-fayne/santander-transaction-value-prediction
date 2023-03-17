@@ -1,11 +1,27 @@
-# santander-prediction
+# Santander Customer Transaction Value Prediction
 
-## Setting up 
-1. Setting up vscode to run jupyter notebooks : https://www.youtube.com/watch?v=h1sAzPojKMg
-2. Clone the repo
-3. Run : pip install -r requirements.txt
-4. Copy the url path to where the data is stored on your pc in the reading files cells of the notebook ....
-   
-> **Note**: If you move the data folder into the project ... please label the root folder as data so that the gitignore file does exactly that ... ignores it while pushing changes. Just trying to keep the repo light for guys who already have the data locally.
+# Background on the challenge
+At Santander our mission is to help people and businesses prosper. We are always looking for ways to help our customers understand their financial health and identify which products and services might help them achieve their monetary goals.
+Our data science team is continually challenging our machine learning algorithms, working with the global data science community to make sure we can more accurately identify new ways to solve our most common challenge, binary classification problems such as: is a customer satisfied? Will a customer buy this product? Can a customer pay this loan?
 
-6. Run the notebook!
+
+# Objective
+In this challenge, we invite Kagglers to help us identify which customers will make a specific transaction in the future, irrespective of the amount of money transacted. The data provided for this competition has the same structure as the real data we have available to solve this problem.
+
+# Data
+The link to the differnet datasets before processing and after processing : https://drive.google.com/drive/folders/1soYd7gl7diy50kvrzuE5qJKVWnRmRGsh?usp=sharing
+
+# Contributors
+- Melanie Fayne
+- Ali Amina Abdi
+- Baraka Fadhili
+- Sharleen kabiru
+- Mary June Munyao
+
+# Technologies used
+- Jupyter Notebook
+- VS Code
+- Git
+
+# Contact Details
+Incase of any problems when accessing the project, or any questions, feel free to contact me via my email - melaniefayne33@gmail.com
